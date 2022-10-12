@@ -11,5 +11,6 @@
           phone: (323)477-6049
           <br>
           <br>
-     - 🔭 Portfolio: <a href="#">vssthedeveloper.com</a>
+     - 🔭 Portfolio: 
+      <a href="#">vssthedeveloper.com</a>
 
