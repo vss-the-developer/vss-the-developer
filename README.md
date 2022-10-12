@@ -7,8 +7,9 @@
 - 💬 Ask me about your web development project ideas, Shopify Store setups, and any collaborations.
 
 - 📫 How to reach me 
-     email:vssautomation1102@gmail.com
+     email: vssautomation1102@gmail.com
      phone: (323)477-6049
      <br>
-     Portfolio:<a href="#">vssthedeveloper.com</a>
+     <br>
+     Portfolio: <a href="#">vssthedeveloper.com</a>
 
