@@ -1,7 +1,7 @@
 <h2>Hey there! 👋</h2>
-<h4>Need help with your E-Commerce Shopify store? I specialize in helping E-Commerce businesses create successful Shopify stores. I'll work until you're 100% satisfied or you get your money back—guaranteed✅</h4>
+<h2>Need help with your E-Commerce Shopify store? I specialize in helping E-Commerce businesses create successful Shopify stores. I'll work until you're 100% satisfied or you get your money back—guaranteed✅</h2>
 <div>
-     <h5>Things I can do for you: ⬇️</h5>
+     <h4>Things I can do for you: ⬇️</h4>
      <ul>
           <li>New or Redesign Shopify Store ( Account Creation, Configuration, And Setup )</li>
           <li>Theme Customization, Create any new Page</li>
@@ -13,7 +13,7 @@
 </div>
 
 <div>
-     <h5>Why me?</h5>
+     <h4>Why me?</h4>
      <ul>
           <li>I Specialized in E-Commerce and Have Master The Shopify Platform</li>
           <li>100% Free Consultation to go Over Projects Needs/Requirements (Let's Get in
@@ -31,4 +31,8 @@ Shopify Platform (can always go back and checked them out)</li>
 Hope to Hear From you Soon!</h2>
      <a href="https://calendly.com/vssthedeveloper" target="_blank"><img width="400" alt="meet_link" src="https://www.pngitem.com/pimgs/m/200-2005359_book-an-appointment-hd-png-download.png"></a>
 </div>
+
+<h5>Or start conversation via:</h5>
+<h6>Email:<p>valentin@vssthedeveloper.com</p></h6>
+<h6>Text:<p>(323) 477 - 6049</p></h6>
 
