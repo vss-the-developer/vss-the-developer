@@ -27,6 +27,8 @@ Shopify Platform (can always go back and checked them out)</li>
 </div>
 
 <div> 
-     <h2>Next Step:</h2>
-     <a href="https://calendly.com/vssthedeveloper" target="_blank"><img width="498" alt="meet_link" src="https://user-images.githubusercontent.com/15426564/144297439-f530f383-e73e-41e0-9914-a9b7d3f432e5.png"></a>
+     <h2>Next Step: schedule a meeting to start a free consultation to see how I can help you (no strings attached )
+Hope to Hear From you Soon!</h2>
+     <a href="https://calendly.com/vssthedeveloper" target="_blank"><img width="400" alt="meet_link" src="https://www.pngitem.com/pimgs/m/200-2005359_book-an-appointment-hd-png-download.png"></a>
 </div>
+
