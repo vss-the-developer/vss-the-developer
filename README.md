@@ -1,5 +1,5 @@
 <h2>Hey there! 👋</h2>
-<h2>Need help with your E-Commerce Shopify store? I specialize in helping E-Commerce businesses create successful Shopify stores. I'll work until you're 100% satisfied or you get your money back—guaranteed✅</h2>
+<h2>Need help with your E-Commerce Shopify store? I specialize in helping E-Commerce businesses create their Shopify stores. I'll work until you're 100% satisfied or you get your money back—guaranteed✅</h2>
 <div>
      <h4>Things I can do for you: ⬇️</h4>
      <ul>
